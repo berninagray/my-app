@@ -50,7 +50,6 @@ class Board extends React.Component {
     }
 
     return (
-      // the rest is not changed
       <div>
         <div className="status">{status}</div>
         <div className="board-row">
